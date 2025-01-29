@@ -219,6 +219,9 @@ footer {
 }
 
 @media (max-width: 768px) {
+  header {
+    font-size: small;
+  }
   .header-bottom {
     flex-direction: row;
     align-items: flex-start;
